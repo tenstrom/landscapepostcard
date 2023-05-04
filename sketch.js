@@ -145,7 +145,7 @@ function draw() {
     arc(250, val6, 500, val5, 180, 0);
     
     //description text
-    text1.html("Landscape Editor");
+    text1.html("Make your own landscape postcard illustration!");
     text1.position(50,700);
              
     text2.html("With this editor you can play around and make a customized landscape illustration for yourself. ");
